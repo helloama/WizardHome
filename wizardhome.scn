@@ -1,0 +1,147 @@
+{
+  "objects": [
+    {
+      "type": "application/spawnpoint",
+      "content": {
+        "position": [0,1,0]
+      }
+    },
+		{
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[255, 255, 255], 0.5]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 255, 255], 5],
+        "position": [1, 2, 3],
+        "shadow": [150, 5120, 0.1, 10000, -0.0001]
+      }
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/atmospheric-sky/"
+    },
+    {
+      "position": [
+        -26,
+        0,
+        -2
+      ],
+      "scale": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "start_url": "https://webaverse.github.io/app/public/avatars/scillia.vrm"
+    },
+    {
+      "position": [
+        0,
+        0,
+        -6
+      ],
+      "scale": [
+            10,
+            10,
+            10,
+            10
+        ],
+      "physics": true,
+      "start_url": "https://helloama.github.io/WizardHome/floor.glb"
+    }
+   ,{
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "scale": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "start_url": "https://helloama.github.io/WizardHome/tree.glb"
+    }
+    ,{
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "scale": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "start_url": "https://helloama.github.io/WizardHome/hugetree.glb"
+    }
+    ,{
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "scale": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "start_url": "https://helloama.github.io/WizardHome/poles.glb"
+    }
+    ,{
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "scale": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "start_url": "https://helloama.github.io/WizardHome/background.glb"
+    }
+    ,{
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "scale": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "start_url": "https://helloama.github.io/WizardHome/objects.glb"
+    }
+    ,{
+        "position": [
+            0,
+            0,
+            0
+        ],
+        "scale": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "start_url": "https://helloama.github.io/WizardHome/diamonds.glb"
+    }
+  ]
+}
