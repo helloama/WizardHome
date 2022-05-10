@@ -3,7 +3,7 @@
     {
       "type": "application/spawnpoint",
       "content": {
-        "position": [0,1,0]
+        "position": [0,1,5]
       }
     },
 		{
@@ -28,6 +28,12 @@
         0,
         0
       ],
+      "scale": [
+        5,
+        5,
+        5,
+        5
+      ],
       "start_url": "https://webaverse.github.io/atmospheric-sky/"
     },
     {
@@ -51,10 +57,10 @@
         -6
       ],
       "scale": [
-            10,
-            10,
-            10,
-            10
+            1,
+            1,
+            1,
+            1
         ],
       "physics": true,
       "start_url": "https://helloama.github.io/WizardHome/floor.glb"
@@ -66,10 +72,10 @@
             0
         ],
         "scale": [
-            5,
-            5,
-            5,
-            5
+            1,
+            1,
+            1,
+            1
         ],
         "start_url": "https://helloama.github.io/WizardHome/tree.glb"
     }
@@ -80,10 +86,10 @@
             0
         ],
         "scale": [
-            5,
-            5,
-            5,
-            5
+            1,
+            1,
+            1,
+            1
         ],
         "start_url": "https://helloama.github.io/WizardHome/hugetree.glb"
     }
@@ -94,10 +100,10 @@
             0
         ],
         "scale": [
-            5,
-            5,
-            5,
-            5
+            1,
+            1,
+            1,
+            1
         ],
         "start_url": "https://helloama.github.io/WizardHome/poles.glb"
     }
@@ -108,10 +114,10 @@
             0
         ],
         "scale": [
-            5,
-            5,
-            5,
-            5
+            1,
+            1,
+            1,
+            1
         ],
         "start_url": "https://helloama.github.io/WizardHome/background.glb"
     }
@@ -122,10 +128,10 @@
             0
         ],
         "scale": [
-            5,
-            5,
-            5,
-            5
+            1,
+            1,
+            1,
+            1
         ],
         "start_url": "https://helloama.github.io/WizardHome/objects.glb"
     }
@@ -136,10 +142,10 @@
             0
         ],
         "scale": [
-            5,
-            5,
-            5,
-            5
+            1,
+            1,
+            1,
+            1
         ],
         "start_url": "https://helloama.github.io/WizardHome/diamonds.glb"
     }
